@@ -1,9 +1,10 @@
 # `Info:`
 >Sample of Next.JS App
 <br/>
-___
+____________________________
 
 ## `Quick Start:`
 >npm install
 <br/>
+
 >npm run dev
